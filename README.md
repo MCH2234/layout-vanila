@@ -1,1 +1,1 @@
-# layout-vanila
+This is the first layout I made completely with flexbox, the layout is inspired by a project from The Odin Project. Soon to make custom changes
