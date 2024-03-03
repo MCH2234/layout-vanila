@@ -67,7 +67,7 @@ button{
     font-size:48px;
     color:#F9FAF8;
     font-weight: 800;
-    font-family:Georgia, 'Times New Roman', Times, serif
+    font-family:sans-serif;
 }
 .text2{
     font-size: 18px;
@@ -89,7 +89,7 @@ button{
     font-size:36px;
     text-align: center;
     font-weight:800;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: sans-serif;
     padding-bottom: 50px;
 }
 
@@ -181,4 +181,8 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
 }
 .callsub{
     color :rgb(209, 194, 194);
+}
+
+.header, .hero{
+    font-family: sans-serif;
 }
