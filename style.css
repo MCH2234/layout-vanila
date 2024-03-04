@@ -31,6 +31,11 @@ body{
     font-size: 18px;
 
 }
+a{
+    list-style-type: none;
+    text-decoration: none;
+    color:#e5e7eba1;
+}
 .hero{
     flex-basis:200px;
     display:flex;
